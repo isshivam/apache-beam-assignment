@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ApacheBeamAssignment.iml" filepath="$PROJECT_DIR$/.idea/ApacheBeamAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApacheBeanAssignment/ApacheBeanAssignment.iml" filepath="$PROJECT_DIR$/ApacheBeanAssignment/ApacheBeanAssignment.iml" />
+    </modules>
+  </component>
+</project>
